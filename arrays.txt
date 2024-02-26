@@ -1,0 +1,28 @@
+When you are starting in an Array you start from zero
+
+int [] tenMult = {10, 20 , 30, 40, 50, 60};
+                  [0] [1]  [2] [3] [4] [5]
+if you do System.out.print(tenMult[3]); The output of this answe
+would be 40 
+
+Anytime you input is you put a for loop because you know exactly 
+what number you want
+--------------------------------------------------
+
+Score array 
+
+{10, 20 , 30, 40, 50, 60};
+[0]  [1]  [2] [3] [4] [5]
+
+for (sub = 0; sub < 5; ++sub)
+scoreArray[sub] += 3;
+
+ -> score array[sub] = ScoreArray[sub] + 3;
+
+ step one look if 5 is greater then zero if not the value is getting 
+ overwritten, so now you are added 3 so instead of 10 it will be 13
+
+ overwriting the value and by adding 3 till it reaches the 5th array
+ ----------------------------------------------------
+
+ 
