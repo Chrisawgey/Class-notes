@@ -25,4 +25,11 @@ scoreArray[sub] += 3;
  overwriting the value and by adding 3 till it reaches the 5th array
  ----------------------------------------------------
 
- 
+ My own interpretation >> whenever you are calling on an array either if its 
+ 3 or one they all start from 0- thrugh whatever other number there is
+
+ in the example wherre there was a for loop each array can be connected with 
+ its own name. and from there it will read or save whatever is in that array a
+ and store the data till when needed the ++ was used for when you want
+ keep count and it just increments by one.       for example [ ++ count] >> it would keep
+ the count and save the progress of how much the system had stored 
